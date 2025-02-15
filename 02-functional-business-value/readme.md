@@ -5,7 +5,7 @@
 - Scenario Discovery by Function
 - How to Facilitate Envisioning
   - Exercise 1: Identify pain points
-  - Exercise 2: Identify scenarios
+  - Exercise 2: Identify high value scenarios
   - Exercise 3: Document scenarios
   - Exercise 4: Prioritize scenarios
 - Group activity 1: Scenario and Value Discovery practice
@@ -39,6 +39,8 @@
 
 ### Exercise Case Study - Company A
 
+- Write down the summary of the scenario
+
 #### Company Profile
 
 - 60,000 employees
@@ -64,26 +66,4 @@
 
 > Note: Company A leadership focuses exclusively on Marketing and Customer Service departments for Copilot implementation.
 
-### Exercise 1: Identify pain points
-
-![pain-points](_images/pain-points.jpg)
-
-- Demonstrate how to use [Microsoft Copilot Scenario Library](https://adoption.microsoft.com/en-us/copilot-scenario-library/marketing/) for the sample scenario:
-
-- Agency Spent
-
-  ![Agency Spent](_images/agency-spent.jpg)
-
-- Leads Generated
-
-  ![Leads Generated](_images/leads-generated.jpg)
-
-- Documented Pain Points
-
-  ![Documented Pain Points](_images/document-pain-points.jpg) in the Template contained in [04 - Group Activity 1 - Scenario and Value Discovery Practice.pptx](/resources/04%20-%20Group%20Activity%201%20-%20Scenario%20and%20Value%20Discovery%20Practice.pptx)
-
-### Exercise 2: Identify scenarios
-
-- Next Lets look at Transform Marketing processes, especially `Content creation` and [Creating a marketing Bill of Materials](https://adoption.microsoft.com/en-us/copilot-scenario-library/marketing/creating-a-marketing-bill-of-materials-copilot-for-microsoft-365/).
-
-  ![transform-process](_images/transform-process.jpg)
+- Continue with the Exercises 1-4 [Group activity 1](/02-functional-business-value/group-activity-1/)
