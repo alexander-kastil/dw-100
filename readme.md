@@ -24,10 +24,6 @@ Companion Material for Class Delivery by [Alexander Kastil](https://www.linkedin
 
 - [Copilot for Microsoft 365](https://adoption.microsoft.com/en-us/copilot/)
 
-## Contributing
-
-Feel free to contribute. When contribute implement your changes / additions on a feature branch in your fork and issue a pull request after completion. An introduction video into forks and pull requests can be found [here](https://www.youtube.com/watch?v=nT8KGYVurIU)
-
 ## License & Re-Use
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
