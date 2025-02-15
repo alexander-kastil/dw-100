@@ -67,3 +67,8 @@
 > Note: Company A leadership focuses exclusively on Marketing and Customer Service departments for Copilot implementation.
 
 - Continue with the Exercises 1-4 [Group activity 1](/02-functional-business-value/group-activity-1/)
+
+### Review and Feedback
+
+- Each group present the outcome of the Scenario identification and value discovery activity.
+- Each group provide feedback on the prioritized scenarios.

@@ -6,6 +6,8 @@ Depending on the size of your group, you may want to break into smaller teams to
 
 Other Students will be playing the role of the customer, and the implementation partner.
 
+> Note: Spend around 2 minutes to distribute the roles and responsibilities among the team members.
+
 ## Exercise objectives
 
 - Exercise 1: Identify pain points
