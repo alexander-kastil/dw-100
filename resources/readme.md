@@ -4,12 +4,11 @@ This page contains essential workshop downloads and resources for the Copilot Bu
 
 ## Downloads
 
-| #   | File                                                                                                                                                                                             | Description                                                     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| 01  | [Copilot Scenario Library](./01%20-%20Copilot%20Business%20Value%20Bootcamp%20-%20Copilot%20Scenario%20Library.pptx)                                                                             | PowerPoint presentation containing the Copilot scenario library |
-| 02  | [SharePoint Agents Customer Adoption Guide](./02-%20Copilot%20Business%20Value%20Bootcamp%20-%20SharePoint%20Agents%20Customer%20Adoption%20Guide.pdf)                                           | PDF guide for SharePoint Agents customer adoption               |
-| 03  | [Case Studies](./03%20-%20Copilot%20Business%20Value%20Bootcamp%20-%20Case%20Studies.docx)                                                                                                       | Document containing business value case studies                 |
-| 04  | [Group Activity 1 - Scenario and Value Discovery Practice](./04%20-%20Copilot%20Business%20Value%20Bootcamp%20-%20Group%20Activity%201%20-%20Scenario%20and%20Value%20Discovery%20Practice.pptx) | PowerPoint presentation for the first group activity            |
-| 05  | [Business Case Builder](./05%20-%20Business%20Case%20Builder.xlsm)                                                                                                                               | Excel macro-enabled workbook for building business cases        |
-
-## Links & Resources
+| # | Resource | Description |
+|---|----------|-------------|
+| 01 | [SharePoint Agents](./01%20-%20SharePoint%20Agents.pdf) | Introduction to SharePoint Agents |
+| 02 | [Copilot Scenario Library](./02%20-%20Copilot%20Scenario%20Library.pdf) | Collection of Copilot implementation scenarios |
+| 02 | [SharePoint Agents Customer Adoption Guide](./02-%20SharePoint%20Agents%20Customer%20Adoption%20Guide.pdf) | Guide for customer adoption of SharePoint Agents |
+| 03 | [Case Studies](./03%20-%20Case%20Studies.pdf) | Real-world implementation case studies |
+| 04 | [Group Activity 1](./04%20-%20Group%20Activity%201%20-%20Scenario%20and%20Value%20Discovery%20Practice.pptx) | Scenario and Value Discovery Practice |
+| 05 | [Group Activity 2](./05%20-%20Group%20Activity%202%20-%20Business%20Case%20Builder.xlsm) | Business Case Builder Template |
