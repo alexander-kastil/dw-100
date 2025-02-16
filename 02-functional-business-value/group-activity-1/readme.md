@@ -2,7 +2,9 @@
 
 ![participation](_images/participation.jpg)
 
-Depending on the size of your group, you may want to break into smaller teams to complete this exercise. Each team should have a facilitator to guide the discussion and a scribe to document the results.
+Depending on the size of your group, you may want to break into smaller teams to complete this exercise.
+
+Each team should have a facilitator to guide the discussion and a scribe to document the results.
 
 Other Students will be playing the role of the customer, and the implementation partner.
 
@@ -81,6 +83,8 @@ Let's use these questions to help you identify use cases/scenarios:
 
 Fill out the scenario card:
 
+> Note: If you feel you are in need for more theoretical information, please refer to [Establish AI-related roles and responsibilities](https://learn.microsoft.com/en-us/training/modules/scale-ai/3-establish-ai-related-roles-responsibilities).
+
 ![Functional Sheet](_images/functional-sheet.jpg)
 
 ## Exercise 3: Document high value scenarios
@@ -90,6 +94,8 @@ Document high-value scenarios including KPI's and value benefit:
 ![high-value-scenarios](_images/high-value-scenarios.jpg)
 
 ## Exercise 4: Prioritize high value scenarios
+
+> Note: If you feel you are in need for more theoretical information, please refer to [Evaluate and prioritize AI investments](https://learn.microsoft.com/en-us/training/modules/scale-ai/2-evaluate-prioritize-ai-investments) and [Apply a horizon-based framework](https://learn.microsoft.com/en-us/training/modules/scale-ai/2a-apply-horizon-framework) for more details.
 
 Prioritize at least 2 high-value scenarios:
 
