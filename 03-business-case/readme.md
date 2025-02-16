@@ -52,3 +52,5 @@
 Download [Business Case Builder Excel Worksheet](https://aka.ms/BusinessCaseBuilder) if you have access to the Partner Center, otherwise get it from [resources](/resources/05%20-%20Group%20Activity%202%20-%20Business%20Case%20Builder.xlsm).
 
 - Give a short introduction to the Business Case Builder.
+
+- Continue with the [group activity](group-activity-2/).

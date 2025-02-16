@@ -7,9 +7,15 @@
 - Group activity 1: Scenario and Value Discovery practice
 - Group activity 1: Review and Feedback
 
-## Copilot Business Value Fields
+## Overview of the Copilot Ecosystem
 
-### User Empowerment
+### Copilot Licenses - User Empowerment
+
+Solutions that empower users to be more productive and efficient in their daily tasks. Typically achieved through the use of AI and automation to reduce manual tasks and improve the user experience. Tools used:
+
+- Copilot Chat & Business Chat
+- Copilots in Apps (Teams, Word, Excel, PowerPoint, Outlook, Loop, ...)
+- Copilots in Services (Dynamics 365 and Salesforce)
 
 [Learning Path - Empower your workforce with Microsoft 365 Copilot Use Cases](https://learn.microsoft.com/en-us/training/paths/empower-workforce-copilot-use-cases/)
 
@@ -17,13 +23,35 @@
 
 ### Agents
 
+In the Microsoft 365 Copilot ecosystem, agents automate tasks, integrate data from various sources, and enhance productivity by adding new skills and customization options. They improve efficiency, accuracy, and collaboration across the organization.
+
+#### No-Code Agents
+
+No-Code Agents are typically created by business users and require no technical knowledge for development. They are used to automate simple tasks and processes. They can contain knowledge from Web, SharePoint and other data sources.
+
 [SharePoint Agents](https://adoption.microsoft.com/en-us/sharepoint-agents/)
 
 [SharePoint Agents - Adoption Guide](https://adoption.microsoft.com/files/agents/SharePoint-agents_Customer_adoption-guide.pdf)
 
+[Copilot Agent Builder - Video](https://www.youtube.com/watch?v=_R4U5FJlXJw)
+
 [Explore common Business use cases with Agents - Video](https://medius.microsoft.com/Embed/video-nc/7f211517-f122-47de-a83a-74c9aab71ca7?r=414785641120)
 
-[Learning Path - Implement no-code agents in Microsoft 365 SharePoint](https://learn.microsoft.com/en-us/training/paths/implement-no-code-copilot-agents-microsoft-365-sharepoint/)
+#### Low Code Agents
+
+Low Code Agents are typically created using [Copilot Studio](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio) and require basic technical knowledge for development and can be used by citizen developers.
+
+Besides Knowledge from different sources, they can interact with other systems and services using Actions. They also provide tools for debugging and testing as well as monitoring and analytics.
+
+[Microsoft Copilot Studio | Build copilots with agent capabilities](https://www.youtube.com/watch?v=5H6_pCUt-mk)
+
+#### Pro Code Agents
+
+Pro Code Agents are typically create using [Teams Toolkit](https://aka.ms/teams-toolkit) and require in-depth technical knowledge for development.
+
+More advanced agents can also be created using the [Azure AI Foundry SDK](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/sdk-overview?tabs=sync&pivots=programming-language-csharp) and make use of specialized Frameworks like [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) or [Microsoft AutoGen](https://github.com/microsoft/autogen)
+
+> Note: Pro Code Agents are beyond the scope of this training. They are just mentioned for completeness.
 
 ## Functional Business Value Overview
 
@@ -62,7 +90,7 @@
 
 > Note: Company A leadership focuses exclusively on Marketing and Customer Service departments for Copilot implementation.
 
-- Continue with the Exercises 1-4 [Group activity 1](/02-functional-business-value/group-activity-1/)
+- Continue with the Exercises 1-4 [Group activity 1](group-activity-1/)
 
 ### Review and Feedback
 
