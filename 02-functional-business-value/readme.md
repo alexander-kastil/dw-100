@@ -1,6 +1,6 @@
 # Functional Business Value and How to Envision
 
-- Copilot Business Value Fields
+- Overview of the Copilot Ecosystem
 - Functional Business Value Overview
 - Scenario Discovery by Function
 - How to Facilitate Envisioning
