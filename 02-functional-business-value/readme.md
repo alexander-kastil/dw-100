@@ -43,15 +43,17 @@ Low Code Agents are typically created using [Copilot Studio](https://www.microso
 
 Besides Knowledge from different sources, they can interact with other systems and services using Actions. They also provide tools for debugging and testing as well as monitoring and analytics.
 
-[Microsoft Copilot Studio | Build copilots with agent capabilities](https://www.youtube.com/watch?v=5H6_pCUt-mk)
+[Build copilots with agent capabilities using Microsoft Copilot Studio - Video](https://www.youtube.com/watch?v=5H6_pCUt-mk)
 
 #### Pro Code Agents
 
-Pro Code Agents are typically create using [Teams Toolkit](https://aka.ms/teams-toolkit) and require in-depth technical knowledge for development.
+Pro Code Agents for the Copilot for Microsoft 365 ecosystem are created using tools like [Teams Toolkit](https://aka.ms/teams-toolkit) and require in-depth technical knowledge for development.
 
-More advanced agents can also be created using the [Azure AI Foundry SDK](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/sdk-overview?tabs=sync&pivots=programming-language-csharp) and make use of specialized Frameworks like [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) or [Microsoft AutoGen](https://github.com/microsoft/autogen)
+More advanced agents can also be created using the [Azure AI Foundry SDK](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/sdk-overview?tabs=sync&pivots=programming-language-csharp) and make use of specialized Frameworks like [Microsoft Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/) or [Microsoft AutoGen](https://github.com/microsoft/autogen) in order to create more advanced AI solutions.
 
 > Note: Pro Code Agents are beyond the scope of this training. They are just mentioned for completeness.
+
+[Azure AI Agent Service - Video](https://www.youtube.com/watch?v=dMEwpthSuhU&list=PLOnNbLPc5OF-4krYbM5RzhuJPtDNSKs2M&index=3)
 
 ## Functional Business Value Overview
 
