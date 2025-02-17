@@ -33,7 +33,7 @@ Leads Generated
 
 Documented Pain Points
 
-![Documented Pain Points](_images/document-pain-points.jpg) in the Template contained in [Group Activity 1 - Scenario and Value Discovery Practice](../../../resources/02-02%20-%20%20Group%20Activity%201%20-%20Scenario%20and%20Value%20Discovery%20Practice.pdf)
+![Documented Pain Points](_images/document-pain-points.jpg) in the Template contained in [Group Activity 1 - Scenario and Value Discovery Practice](/resources/02-02%20-%20%20Group%20Activity%201%20-%20Scenario%20and%20Value%20Discovery%20Practice.pptx)
 
 Useful questions to ask:
 
@@ -83,7 +83,7 @@ Let's use these questions to help you identify use cases/scenarios:
 
 Fill out the scenario card:
 
-> Note: If you feel you are in need for more theoretical information, please refer to [Establish AI-related roles and responsibilities](https://learn.microsoft.com/en-us/training/modules/scale-ai/3-establish-ai-related-roles-responsibilities).
+[Establish AI-related roles and responsibilities](https://learn.microsoft.com/en-us/training/modules/scale-ai/3-establish-ai-related-roles-responsibilities).
 
 ![Functional Sheet](_images/functional-sheet.jpg)
 
@@ -95,7 +95,9 @@ Document high-value scenarios including KPI's and value benefit:
 
 ## Exercise 4: Prioritize high value scenarios
 
-> Note: If you feel you are in need for more theoretical information, please refer to [Evaluate and prioritize AI investments](https://learn.microsoft.com/en-us/training/modules/scale-ai/2-evaluate-prioritize-ai-investments) and [Apply a horizon-based framework](https://learn.microsoft.com/en-us/training/modules/scale-ai/2a-apply-horizon-framework) for more details.
+[Evaluate and prioritize AI investments](https://learn.microsoft.com/en-us/training/modules/scale-ai/2-evaluate-prioritize-ai-investments)
+
+[Apply a horizon-based framework](https://learn.microsoft.com/en-us/training/modules/scale-ai/2a-apply-horizon-framework)
 
 Prioritize at least 2 high-value scenarios:
 

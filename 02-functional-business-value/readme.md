@@ -63,6 +63,12 @@ More advanced agents can also be created using the [Azure AI Foundry SDK](https:
 
 ## How to Facilitate Envisioning
 
+[Establish AI-related roles and responsibilities](https://learn.microsoft.com/en-us/training/modules/scale-ai/3-establish-ai-related-roles-responsibilities)
+
+[Evaluate and prioritize AI investments](https://learn.microsoft.com/en-us/training/modules/scale-ai/2-evaluate-prioritize-ai-investments)
+
+[Apply a horizon-based framework](https://learn.microsoft.com/en-us/training/modules/scale-ai/2a-apply-horizon-framework)
+
 ### Exercise Case Study - Company A
 
 - Write down the summary of the scenario
