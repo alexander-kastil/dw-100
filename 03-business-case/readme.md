@@ -49,7 +49,7 @@
 
 ## Getting ready for Group Activity 2
 
-Download [Business Case Builder Excel Worksheet](https://aka.ms/BusinessCaseBuilder) if you have access to the Partner Center, otherwise get it from [resources](/resources/05%20-%20Group%20Activity%202%20-%20Business%20Case%20Builder.xlsm).
+Download [Business Case Builder Excel Worksheet](https://aka.ms/BusinessCaseBuilder) if you have access to the Partner Center, otherwise get it from [resources](/resources/03-01%20-%20Group%20Activity%202%20-%20Business%20Case%20Builder.xlsm).
 
 ![business-case-builder.jpg](_images/business-case-builder.jpg)
 

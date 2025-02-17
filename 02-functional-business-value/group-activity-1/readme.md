@@ -33,7 +33,7 @@ Leads Generated
 
 Documented Pain Points
 
-![Documented Pain Points](_images/document-pain-points.jpg) in the Template contained in [04 - Group Activity 1 - Scenario and Value Discovery Practice.pptx](/resources/04%20-%20Group%20Activity%201%20-%20Scenario%20and%20Value%20Discovery%20Practice.pptx)
+![Documented Pain Points](_images/document-pain-points.jpg) in the Template contained in [Group Activity 1 - Scenario and Value Discovery Practice](../../resources/02-02%20-%20Group%20Activity%201%20-%20Scenario%20and%20Value%20Discovery%20Practice.pdf)
 
 Useful questions to ask:
 
