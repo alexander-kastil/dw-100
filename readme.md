@@ -12,7 +12,7 @@ Companion Material for Class Delivery by [Alexander Kastil](https://www.linkedin
 | 09:20-10:20 | Group Activity 1: Scenario and Value Discovery practice                        |                                                                                                        |
 | 10:20-10:50 | Recap: Present output of Scenario and Value Discovery practice                 |                                                                                                        |
 | 10:50-11:35 | Lunch Break                                                                    |                                                                                                        |
-| 11:35-12:20 | [Building a Business Case](05-business-case/)                                  | Learn how to use the Microsoft Business Case Builder to produce a compelling business case             |
+| 11:35-12:20 | [Building a Business Case](03-business-case/)                                  | Learn how to use the Microsoft Business Case Builder to produce a compelling business case             |
 | 12:20-13:05 | Group Activity 2: Business Case Builder practice                               |                                                                                                        |
 | 13:05-13:20 | Break                                                                          |                                                                                                        |
 | 13:20-13:45 | Recap: Present output of the Business Case Builder practice                    |                                                                                                        |
